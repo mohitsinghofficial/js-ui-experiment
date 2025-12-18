@@ -1,2 +1,1 @@
-# I love you
-------------
+# 1. JavaScript Text Animation
